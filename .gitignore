@@ -1,0 +1,5 @@
+testpy
+features.txt
+.venv
+*__pycache__
+*pyc
